@@ -1,0 +1,40 @@
+{
+  "Fruits": [
+    {
+      "id": 1,
+      "name": "Mango",
+      "quantity": 5,
+      "price": 300
+    },
+    {
+      "id": 2,
+      "name": "Batikh",
+      "quantity": 10,
+      "price": 1000
+    },
+    {
+      "id": 3,
+      "name": "Sapota",
+      "price": 120,
+      "quantity": 3
+    },
+    {
+      "id": 4,
+      "name": "bon jus",
+      "price": 20,
+      "quantity": 20
+    },
+    {
+      "id": 5,
+      "name": "bon jus",
+      "price": 87,
+      "quantity": 8
+    },
+    {
+      "id": 6,
+      "name": "tomate",
+      "price": 52,
+      "quantity": 41
+    }
+  ]
+}
